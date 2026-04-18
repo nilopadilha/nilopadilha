@@ -6,12 +6,12 @@
 </div>
 
 ## 👨‍💻 Sobre Mim
-[cite_start]Especialista em **Sistemas Financeiros** e **Inovação Tecnológica**, atuando como **Desenvolvedor Java Sênior**[cite: 1, 36]. [cite_start]Atualmente, uno minha sólida bagagem em TI (Bacharel em Sistemas) com o Direito (10º período) para desenvolver soluções de alta performance em **Legal Tech**, como o **JurisBridge** e o **RadarLicit**[cite: 93, 95].
+Especialista em **Sistemas Financeiros** e **Inovação Tecnológica**, atuando como **Desenvolvedor Java Sênior**. Atualmente, uno minha sólida bagagem em TI (Bacharel em Sistemas) com o Direito (10º período) para desenvolver soluções de alta performance em **Legal Tech**, como o **JurisBridge** e o **RadarLicit**.
 
-* [cite_start]🚀 Atualmente desenvolvendo o core bancário no **Banco do Amazonas**[cite: 36, 37].
+* 🚀 Atualmente desenvolvendo o core bancário no **Banco do Amazonas**.
 * ⚖️ Focado em automação jurídica e monitoramento de processos judiciais (PJe/DJEN).
-* [cite_start]🛡️ Experiência em Compliance, Prevenção à Lavagem de Dinheiro (AML) e arquiteturas escaláveis[cite: 39].
-* [cite_start]☁️ Especialista em infraestrutura híbrida (On-premise e Cloud Azure/AWS)[cite: 33, 34, 86].
+* 🛡️ Experiência em Compliance, Prevenção à Lavagem de Dinheiro (AML) e arquiteturas escaláveis.
+* ☁️ Especialista em infraestrutura híbrida (On-premise e Cloud Azure/AWS).
 
 ---
 
@@ -44,8 +44,8 @@ Para demonstrar o acompanhamento constante das minhas atualizações:
 ---
 
 ### 🏆 Certificações e Formação
-* [cite_start]**Bacharel em Sistemas de Informação** - UNI-RN [cite: 95]
-* [cite_start]**Graduando em Direito** - UNINASSAU (10º Período) [cite: 93]
-* [cite_start]**CCNA Cisco** & **Cobit 4.1** [cite: 97, 98]
+* **Bacharel em Sistemas de Informação** - UNI-RN 
+* **Graduando em Direito** - UNINASSAU (10º Período)
+* **CCNA Cisco** & **Cobit 4.1** 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4682B4&height=100&section=footer"/>
