@@ -1,49 +1,51 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4682B4&height=120&section=header"/>
-<h1 align="left">Olá 👋! eu sou Petronilo Padilha</h1>
-### 🤖 Linguagens e Tecnologias <br /><br />
-
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-<img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
-<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
-<img align="left" alt="Angular" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-<br />
-<br />
-### 📊 Estatísticas
-<div align="center">
-  <img height=120 src="https://github-readme-stats.vercel.app/api?username=nilopadilha&hide=stars,prs,issues,contribs&show_icons=true&icon_color=FF9C00&bg_color=0d1117&title_color=fff8f8&text_color=90908e&locale=pt-br&hide_border=true&hide_rank=true&line_height=47?"/>
-  <img height=120 src="https://github-readme-stats.vercel.app/api/top-langs/?username=nilopadilha&card_width=400&layout=compact&bg_color=0d1117&title_color=fff8f8&text_color=90908e&locale=pt-br&hide_border=true&line_height=47?"/>
-
-</div>
-
-###
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4682B4&height=120&section=header&text=Petronilo%20Padilha&fontSize=70&animation=fadeIn"/>
 
 <div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=nilopadilha&theme=transparent&hide_border=true&locale=pt_BR&card_width=900&background=0D1117&ring=FF9C00&fire=EB5454&sideNums=FF9C00&stroke=FFF8F8&currStreakNum=EB5454&currStreakLabel=FFF8F8&dates=90908E&sideLabels=FFF8F8?"/>
+  <a href="https://www.linkedin.com/in/petronilopadilha/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="mailto:nilopadilha@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
-###
+## 👨‍💻 Sobre Mim
+[cite_start]Especialista em **Sistemas Financeiros** e **Inovação Tecnológica**, atuando como **Desenvolvedor Java Sênior**[cite: 1, 36]. [cite_start]Atualmente, uno minha sólida bagagem em TI (Bacharel em Sistemas) com o Direito (10º período) para desenvolver soluções de alta performance em **Legal Tech**, como o **JurisBridge** e o **RadarLicit**[cite: 93, 95].
+
+* [cite_start]🚀 Atualmente desenvolvendo o core bancário no **Banco do Amazonas**[cite: 36, 37].
+* ⚖️ Focado em automação jurídica e monitoramento de processos judiciais (PJe/DJEN).
+* [cite_start]🛡️ Experiência em Compliance, Prevenção à Lavagem de Dinheiro (AML) e arquiteturas escaláveis[cite: 39].
+* [cite_start]☁️ Especialista em infraestrutura híbrida (On-premise e Cloud Azure/AWS)[cite: 33, 34, 86].
+
+---
+
+### 🛠️ Tecnologias e Ferramentas
+
+| Categoria | Tecnologias |
+| :--- | :--- |
+| **Backend** | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white) ![Node](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| **Frontend** | ![Vue](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white) ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) |
+| **DevOps & Cloud** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=microsoftazure&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white) |
+| **Bancos de Dados** | ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white) |
+
+---
+
+### 📈 Atividade e Evolução do Código
+Para demonstrar o acompanhamento constante das minhas atualizações:
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nilopadilha&radius=16&theme=redical&area=true&order=5&hide_border=true&hide_title=false&point=ff9c00&bg_color=0D1117&color=ffffff&line=ff9c00&area_color=ff9c00&custom_title=Gráfico%20de%20contribuições?"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nilopadilha&radius=16&theme=redical&area=true&order=5&hide_border=true&hide_title=false&point=ff9c00&bg_color=0D1117&color=ffffff&line=ff9c00&area_color=ff9c00&custom_title=Histórico%20de%20Commits"/>
 </div>
 
-###
-
-<div align="left" >
-  <a  href="https://www.linkedin.com/in/petronilopadilha/" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo" /></a>
-  <a href = "mailto:nilopadilha@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo"/></a>
+<div align="center">
+  <img height=160 src="https://github-readme-stats.vercel.app/api?username=nilopadilha&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height=160 src="https://github-readme-stats.vercel.app/api/top-langs/?username=nilopadilha&layout=compact&theme=dark&hide_border=true"/>
 </div>
 
-###
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4682B4&height=120&section=footer"/>
+### 🔍 Atividades Recentes no Git
+> *Últimos desenvolvimentos focados em Java 21, Refatoração de Microserviços e Automação de Processos Jurídicos.*
+
+---
+
+### 🏆 Certificações e Formação
+* [cite_start]**Bacharel em Sistemas de Informação** - UNI-RN [cite: 95]
+* [cite_start]**Graduando em Direito** - UNINASSAU (10º Período) [cite: 93]
+* [cite_start]**CCNA Cisco** & **Cobit 4.1** [cite: 97, 98]
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4682B4&height=100&section=footer"/>
