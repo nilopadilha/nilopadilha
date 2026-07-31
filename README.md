@@ -62,6 +62,16 @@ Para demonstrar o acompanhamento constante das minhas atualizações:
 ### 🏆 Certificações e Formação
 * **Bacharel em Sistemas de Informação** - UNI-RN
 * **Graduando em Direito** - UNINASSAU (10º Período)
-* **CCNA Cisco** & **Cobit 4.1**
+* **Microsserviços, Java 11** - Udemy
+* **Testes de Software** - Udemy
+* **CCNA Cisco** - Fundação Bradesco
+* **Cobit 4.1** - Fundação Bradesco
+* **Projetos de sistemas de TI**
+* **Projeto de sistemas Web** - IFRS
+* **Conceitos fundamentais Angular 8**
+* **Lógica de Programação Essencial**
+* **Lógica de Programação Básica**
+* **Introdução ao GitHub e comandos para trabalhar em equipe**
+* **Git e Controle de Versões** - DIO
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4682B4&height=100&section=footer"/>
